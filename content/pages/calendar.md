@@ -4,90 +4,803 @@ title: Calendar
 uid: cae6ff7d-663c-c3e2-c8ef-e60287454689
 ---
 
-| SES # | ACTIVITIES AND KEY DATES |
-| --- | --- |
-| {{< td-colspan 2 >}}**Week 1**{{< /td-colspan >}} ||
-| 1 |  {{< br >}}{{< br >}} *   Safety Training{{< br >}}*   Introduction to the Course{{< br >}}*   _C. Elegans_ Life Cycle, Anatomy and Behavior{{< br >}}*   Lab Specific Safety Walk Through{{< br >}}*   _C. Elegans_ Maintenance and Manipulation Lab{{< br >}}*   Genetic Linkage and SNP Mapping {{< br >}}{{< br >}}  |
-| 2 |  {{< br >}}{{< br >}} *   Forward and Reverse Genetics: An Overview of Classical Genetic Methods{{< br >}}*   _C. Elegans_ Mutants and WormBase Workshop{{< br >}}*   Genetic Linkage and SNP Mapping{{< br >}}*   Using RNAi to Knockdown Gene Function {{< br >}}{{< br >}}  |
-| 3 |  {{< br >}}{{< br >}} *   Laboratory Notebook: A Guide to Proper Management{{< br >}}*   Overview of Gibson Assembly Method for Molecular Cloning and Primer Design{{< br >}}*   Gibson Assembly{{< br >}}*   Using RNAi to Knockdown Gene Function {{< br >}}{{< br >}}  |
-| 4 |  {{< br >}}{{< br >}} *   Workshop on NCBI Databases (MIT Libraries){{< br >}}*   Genetic Linkage and SNP Mapping{{< br >}}*   Using RNAi to Knockdown Gene Function{{< br >}}*   Chemotaxis Assay {{< br >}}{{< br >}}  |
-| 5 |  {{< br >}}{{< br >}} *   Genetic Linkage and SNP Mapping{{< br >}}*   PCR and Agarose Gel Electrophoresis Review{{< br >}}*   Gibson Assembly {{< br >}}{{< br >}}  |
-| {{< td-colspan 2 >}}**Week 2**{{< /td-colspan >}} ||
-| 6 |  {{< br >}}{{< br >}} *   Science Communication{{< br >}}*   Gibson Assembly{{< br >}}*   Using RNAi to Knockdown Gene Function{{< br >}}*   Collect Worms for RNA Extraction {{< br >}}{{< br >}}  |
-| 7 |  {{< br >}}{{< br >}} *   Gibson Assembly{{< br >}}*   Using RNAi to Knockdown Gene Function{{< br >}}*   cDNA Synthesis {{< br >}}{{< br >}}  |
-| 8 |  {{< br >}}{{< br >}} *   Gibson Assembly{{< br >}}*   Using RNAi to Knockdown Gene Function{{< br >}}*   Genetic Linkage and SNP Mapping {{< br >}}{{< br >}}  |
-| 9 |  {{< br >}}{{< br >}} *   Genetic Linkage and SNP Mapping{{< br >}}*   Using RNAi to Knockdown Gene Function{{< br >}}*   Gibson Assembly {{< br >}}{{< br >}}  |
-| 10 | Begin work on individual projects |
-| {{< td-colspan 2 >}}**Week 3: From this point forward, each student takes on their own individual project for the remainder of the semester  {{< br >}}**{{< /td-colspan >}} ||
-| 11 | Individual Student Project Work |
-| 12 | Individual Student Project Work |
-| 13 | Journal Club 1 |
-| 14 | Individual Student Project Work |
-| 15 | Group Meeting: Research Proposal Discussion |
-| {{< td-colspan 2 >}}**Week 4**{{< /td-colspan >}} ||
-| 16 | Individual Student Project Work |
-| 17 | Draft of Research Proposal Due |
-| 18 | Journal Club 2 |
-| 19 | Individual Student Project Work |
-| 20 | Group Meeting |
-| {{< td-colspan 3 >}}**Week 5**{{< /td-colspan >}} |||
-| 21 | Individual Student Project Work |
-| 22 | Research Proposal Due |
-| 23 | Individual Student Project Work |
-| 23 | Individual Student Project Work |
-| 24 | Individual Student Project Work |
-| 25 | Group Meeting |
-| {{< td-colspan 2 >}}**Week 6**{{< /td-colspan >}} ||
-| 26 | Individual Student Project Work |
-| 27 | Individual Student Project Work |
-| 28 | Journal Club 3 |
-| 29 | Individual Student Project Work |
-| 30 | Group Meeting |
-| {{< td-colspan 2 >}}**Week 7**{{< /td-colspan >}} ||
-| 31 | Individual Student Project Work |
-| 32 | Mini-review Due |
-| 33 | Individual Student Project Work |
-| 34 | Individual Student Project Work |
-| 35 | Group Meeting |
-| {{< td-colspan 2 >}}**Week 8**{{< /td-colspan >}} ||
-| 36 | Individual Student Project Work |
-| 37 | Draft of Introduction Due |
-| 38 | Individual Student Project Work |
-| 39 | Progress Research Presentation |
-| 40 | Individual Student Project Work |
-| {{< td-colspan 2 >}}**Week 9**{{< /td-colspan >}} ||
-| 41 | Midterm Evaluation Meetings |
-| 42 | Materials and Methods Due |
-| 43 | Journal Club 4 |
-| 44 | Individual Student Project Work |
-| 45 | Group Meeting |
-| {{< td-colspan 2 >}}**Week 10**{{< /td-colspan >}} ||
-| 46 | Individual Student Project Work |
-| 47 | Figures and Results Due |
-| 48 | Journal Club 5 |
-| 49 | Individual Student Project Work |
-| 50 | Group Meeting |
-| {{< td-colspan 2 >}}**Week 11**{{< /td-colspan >}} ||
-| 51 | Individual Student Project Work |
-| 52 | Individual Student Project Work |
-| 53 | Journal Club 6 |
-| 54 | Individual Student Project Work |
-| 55 | Individual Student Project Work |
-| {{< td-colspan 2 >}}**Week 12**{{< /td-colspan >}} ||
-| 56 | Individual Student Project Work |
-| 57 | Title, Abstract and Discussion Due |
-| 58 | Journal Club 7 |
-| 59 | Individual Student Project Work |
-| 60 | Group Meeting |
-| {{< td-colspan 2 >}}**Week 13**{{< /td-colspan >}} ||
-| 61 | Individual Student Project Work |
-| 62 | Final Presentation Rehearsals |
-| 63 | Journal Club 8 |
-| 64 |  Individual Student Project Work |
-| 65 | Group Meeting |
-| {{< td-colspan 2 >}}**Week 14**{{< /td-colspan >}} ||
-| 66 | Individual Student Project Work |
-| 67 | Individual Student Project Work |
-| 68 | Final Oral Presentations |
-| 69 | Final Paper Due |
-| 70 | Individual Student Project Work
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+ACTIVITIES AND KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Week 1**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Safety Training
+*   Introduction to the Course
+*   _C. Elegans_ Life Cycle, Anatomy and Behavior
+*   Lab Specific Safety Walk Through
+*   _C. Elegans_ Maintenance and Manipulation Lab
+*   Genetic Linkage and SNP Mapping
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Forward and Reverse Genetics: An Overview of Classical Genetic Methods
+*   _C. Elegans_ Mutants and WormBase Workshop
+*   Genetic Linkage and SNP Mapping
+*   Using RNAi to Knockdown Gene Function
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Laboratory Notebook: A Guide to Proper Management
+*   Overview of Gibson Assembly Method for Molecular Cloning and Primer Design
+*   Gibson Assembly
+*   Using RNAi to Knockdown Gene Function
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Workshop on NCBI Databases (MIT Libraries)
+*   Genetic Linkage and SNP Mapping
+*   Using RNAi to Knockdown Gene Function
+*   Chemotaxis Assay
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Genetic Linkage and SNP Mapping
+*   PCR and Agarose Gel Electrophoresis Review
+*   Gibson Assembly
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Week 2**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Science Communication
+*   Gibson Assembly
+*   Using RNAi to Knockdown Gene Function
+*   Collect Worms for RNA Extraction
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Gibson Assembly
+*   Using RNAi to Knockdown Gene Function
+*   cDNA Synthesis
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Gibson Assembly
+*   Using RNAi to Knockdown Gene Function
+*   Genetic Linkage and SNP Mapping
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Genetic Linkage and SNP Mapping
+*   Using RNAi to Knockdown Gene Function
+*   Gibson Assembly
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Begin work on individual projects
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Week 3: From this point forward, each student takes on their own individual project for the remainder of the semester  
+**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Individual Student Project Work
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Individual Student Project Work
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Journal Club 1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Individual Student Project Work
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Group Meeting: Research Proposal Discussion
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Week 4**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Individual Student Project Work
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Draft of Research Proposal Due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Journal Club 2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Individual Student Project Work
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Group Meeting
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 5**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Individual Student Project Work
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Research Proposal Due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Individual Student Project Work
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Individual Student Project Work
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Individual Student Project Work
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Group Meeting
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Week 6**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Individual Student Project Work
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+27
+{{< tdclose >}}
+{{< tdopen >}}
+Individual Student Project Work
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+28
+{{< tdclose >}}
+{{< tdopen >}}
+Journal Club 3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+29
+{{< tdclose >}}
+{{< tdopen >}}
+Individual Student Project Work
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+30
+{{< tdclose >}}
+{{< tdopen >}}
+Group Meeting
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Week 7**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+31
+{{< tdclose >}}
+{{< tdopen >}}
+Individual Student Project Work
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+32
+{{< tdclose >}}
+{{< tdopen >}}
+Mini-review Due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+33
+{{< tdclose >}}
+{{< tdopen >}}
+Individual Student Project Work
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+34
+{{< tdclose >}}
+{{< tdopen >}}
+Individual Student Project Work
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+35
+{{< tdclose >}}
+{{< tdopen >}}
+Group Meeting
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Week 8**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+36
+{{< tdclose >}}
+{{< tdopen >}}
+Individual Student Project Work
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+37
+{{< tdclose >}}
+{{< tdopen >}}
+Draft of Introduction Due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+38
+{{< tdclose >}}
+{{< tdopen >}}
+Individual Student Project Work
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+39
+{{< tdclose >}}
+{{< tdopen >}}
+Progress Research Presentation
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+40
+{{< tdclose >}}
+{{< tdopen >}}
+Individual Student Project Work
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Week 9**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+41
+{{< tdclose >}}
+{{< tdopen >}}
+Midterm Evaluation Meetings
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+42
+{{< tdclose >}}
+{{< tdopen >}}
+Materials and Methods Due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+43
+{{< tdclose >}}
+{{< tdopen >}}
+Journal Club 4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+44
+{{< tdclose >}}
+{{< tdopen >}}
+Individual Student Project Work
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+45
+{{< tdclose >}}
+{{< tdopen >}}
+Group Meeting
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Week 10**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+46
+{{< tdclose >}}
+{{< tdopen >}}
+Individual Student Project Work
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+47
+{{< tdclose >}}
+{{< tdopen >}}
+Figures and Results Due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+48
+{{< tdclose >}}
+{{< tdopen >}}
+Journal Club 5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+49
+{{< tdclose >}}
+{{< tdopen >}}
+Individual Student Project Work
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+50
+{{< tdclose >}}
+{{< tdopen >}}
+Group Meeting
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Week 11**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+51
+{{< tdclose >}}
+{{< tdopen >}}
+Individual Student Project Work
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+52
+{{< tdclose >}}
+{{< tdopen >}}
+Individual Student Project Work
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+53
+{{< tdclose >}}
+{{< tdopen >}}
+Journal Club 6
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+54
+{{< tdclose >}}
+{{< tdopen >}}
+Individual Student Project Work
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+55
+{{< tdclose >}}
+{{< tdopen >}}
+Individual Student Project Work
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Week 12**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+56
+{{< tdclose >}}
+{{< tdopen >}}
+Individual Student Project Work
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+57
+{{< tdclose >}}
+{{< tdopen >}}
+Title, Abstract and Discussion Due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+58
+{{< tdclose >}}
+{{< tdopen >}}
+Journal Club 7
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+59
+{{< tdclose >}}
+{{< tdopen >}}
+Individual Student Project Work
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+60
+{{< tdclose >}}
+{{< tdopen >}}
+Group Meeting
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Week 13**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+61
+{{< tdclose >}}
+{{< tdopen >}}
+Individual Student Project Work
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+62
+{{< tdclose >}}
+{{< tdopen >}}
+Final Presentation Rehearsals
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+63
+{{< tdclose >}}
+{{< tdopen >}}
+Journal Club 8
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+64
+{{< tdclose >}}
+{{< tdopen >}}
+ Individual Student Project Work
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+65
+{{< tdclose >}}
+{{< tdopen >}}
+Group Meeting
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Week 14**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+66
+{{< tdclose >}}
+{{< tdopen >}}
+Individual Student Project Work
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+67
+{{< tdclose >}}
+{{< tdopen >}}
+Individual Student Project Work
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+68
+{{< tdclose >}}
+{{< tdopen >}}
+Final Oral Presentations
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+69
+{{< tdclose >}}
+{{< tdopen >}}
+Final Paper Due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+70
+{{< tdclose >}}
+{{< tdopen >}}
+Individual Student Project Work
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

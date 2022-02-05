@@ -48,13 +48,66 @@ Grading
 
 You will be graded based on your performance in the laboratory and in the classroom. Specifically, the important points are how you approach, design and implement the experiments, the effort you put into performing quality work, and how well you communicate your results. Your grade will not be affected by the outcome of your experiment. Participation in meetings and discussions, including group meetings, journal clubs, and oral presentations is also expected and will contribute to your final evaluation.
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Data analysis and interpretation, effort, skill and lab notebook | 50% |
-| Journal club presentation | 10% |
-| Final research presentation | 10% |
-| Group meeting presentations and participation | 10% |
-| Written assignments | 20% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Data analysis and interpretation, effort, skill and lab notebook
+{{< tdclose >}}
+{{< tdopen >}}
+50%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Journal club presentation
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final research presentation
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Group meeting presentations and participation
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Written assignments
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Mid-term Evaluations
 --------------------
