@@ -38,7 +38,7 @@ Protocols
 
 [Cleaning Contaminated Worm Stocks (PDF)]({{< baseurl >}}/resources/mit7_15s15_cleaning)
 
-Molecular Cloning using the Gibson Assembly Method: See the descriptions and protocols in the ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Gibson Assembly Cloning Kit Manual (PDF - 1.3MB)](https://www.neb.com/~/media/Catalog/All-Products/E13C03EA3FE14F12BEA0A0ECE9490093/Datacards%20or%20Manuals/ManualE5510.pdf), and the [Gibson Assembly cloning kit (NEB E5510S)](https://www.neb.com/products/e5510-gibson-assembly-cloning-kit#tabselect0), from New England Biolabs.
+Molecular Cloning using the Gibson Assembly Method: See the descriptions and protocols in the [Gibson Assembly Cloning Kit Manual (PDF - 1.3MB)](https://www.neb.com/~/media/Catalog/All-Products/E13C03EA3FE14F12BEA0A0ECE9490093/Datacards%20or%20Manuals/ManualE5510.pdf), and the [Gibson Assembly cloning kit (NEB E5510S)](https://www.neb.com/products/e5510-gibson-assembly-cloning-kit#tabselect0), from New England Biolabs.
 
 [General Guidelines for Primer Design (PDF)]({{< baseurl >}}/resources/mit7_15s15_primer_design)
 
