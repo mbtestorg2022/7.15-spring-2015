@@ -4,6 +4,7 @@ description: This resource contains information regarding making C. elegans lysa
   for PCR.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/7-15-experimental-molecular-genetics-spring-2015/ba66f03a69fa397756b1c304d0c636d1_MIT7_15S15_Wormlysis_forPCR.pdf
 file_type: application/pdf
+parent_uid: 8a9d0dfe-ed4b-68b4-d111-c90332844534
 resourcetype: Document
 title: Making C. elegans Lysates for PCR
 uid: ba66f03a-69fa-3977-56b1-c304d0c636d1

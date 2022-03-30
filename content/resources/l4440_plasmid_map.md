@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 49d523eb-e0bf-aea9-58bf-f53657e2b561
 resourcetype: Image
 title: L4440_plasmid_map.jpg
 uid: bd7a5207-e852-1cde-839d-21e00b5b0471

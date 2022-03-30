@@ -4,6 +4,7 @@ description: This resource contains information regarding general guidelines for
   design.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/7-15-experimental-molecular-genetics-spring-2015/b6d9befecddfc6f51fc98157769dceaa_MIT7_15S15_Primer_design.pdf
 file_type: application/pdf
+parent_uid: 8a9d0dfe-ed4b-68b4-d111-c90332844534
 resourcetype: Document
 title: General Guidelines for Primer Design
 uid: b6d9befe-cddf-c6f5-1fc9-8157769dceaa
